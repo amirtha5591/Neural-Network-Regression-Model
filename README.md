@@ -95,15 +95,10 @@ plt.show()
 X_n1_1 = torch.tensor([[11]], dtype=torch.float32)
 prediction = ai_brain(torch.tensor(scaler.transform(X_n1_1), dtype=torch.float32)).item()
 print(f'Prediction: {prediction}')
-    
-
-
-
 ```
 ## Dataset Information
 
 ![image](https://github.com/user-attachments/assets/11dcb529-9981-468c-8945-cb116050ae7d)
-
 
 ## OUTPUT
 
@@ -116,8 +111,6 @@ print(f'Prediction: {prediction}')
 
 ![image](https://github.com/user-attachments/assets/4847c7f3-5066-4aac-947e-c56c0321a1f4)
 ![image](https://github.com/user-attachments/assets/e1b100ab-677e-4088-884e-14d812f6406d)
-
-
 
 ## RESULT
 
