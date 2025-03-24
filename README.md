@@ -5,12 +5,11 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-
-Explain the problem statement
+A neural network was built for regression, with the dataset normalized and split into training and testing sets. The model was trained using RMSprop and MSE loss, and its performance was evaluated. A loss plot was generated, and predictions were made on new data.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/4ad63087-a8f9-4ff7-afcd-91e7aa7b8d3e)
 
 ## DESIGN STEPS
 
